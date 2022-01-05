@@ -4,4 +4,6 @@ Utilisation des bases de données annuelles des accidents corporels de la circul
 
 Exploitation des données de l'année 2019 (plus de 130 000 entrées) 
 
- **df_utiles** contient la fusion des bases de données utilisées dans ce projet (*caracteristiques-2019.csv*, *usagers-2019.csv*, *lieux-2020.csv*, *vehicules-2020.csv*)
+**Projet_complet** est le notebook du projet avec l'entièreté du code commenté
+
+ **df_utiles** contient la fusion des bases de données utilisées dans ce projet (*caracteristiques-2019.csv*, *usagers-2019.csv*, *lieux-2019.csv*, *vehicules-2019.csv*)
