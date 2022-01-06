@@ -1,7 +1,7 @@
 # Accidents
 2A ENSAE 2021/2022
 
-Projet de Python pour le data scientist (2021-2022) :  ***Prédire la gravité des accidents corporels de la route***
+Projet de Python pour le data scientist (2021-2022) :  ***Prédire le nombre et la mortalité des accidents corporels de la route***
 
 #### DUJARDIN Thomas, RONDEY Hélène, ROSUNEE Avichaï
 
