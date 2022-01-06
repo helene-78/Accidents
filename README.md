@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 
 
-Utilisation des bases de données annuelles des accidents corporels de la circulation routière - Années de 2005 à 2020 disponibles à l'adresse : https://www.data.gouv.fr/en/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2020/#resources
+Utilisation des bases de données annuelles des accidents corporels de la circulation routière - Années de 2005 à 2020 disponibles à l'adresse : https://www.data.gouv.fr/fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2020/#resources
 
 *Pour chaque accident corporel impliquant au moins un véhicule et ayant fait au moins une victime ayant nécessité des soins, des saisies d’information décrivant l’accident sont effectuées par l’unité des forces de l’ordre (police, gendarmerie, etc.) qui est intervenue sur le lieu de l’accident.*
 
