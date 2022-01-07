@@ -36,7 +36,7 @@ Nous exploitons les données de l'année 2019 (plus de 130 000 entrées).
  
 **III) Première modélisation : prédire le nombre d'accidentés grâce aux séries temporelles**
 
-Nous réalisons un fit avec un modèle Sarimax puis prédisons 31 valeurs du nombre d'accidents par jour, sur le mois de Janvier 2020. Nous comparons graphiquement dans le Dash notre prédiction et la réalité.
+Nous réalisons un fit avec un modèle Sarimax puis prédisons 31 valeurs du nombre d'accidents par jour, sur le mois de Janvier 2020. Nous comparons graphiquement dans le Dash notre prédiction et la réalité. Bien que le graphe d'autocorrélation généré suggère que le dernier paramètre de seasonal_order devrait être 7, nous prenons 32, car prendre 7 obligerait à utiliser un ordre de 6 (Xt+1 = Xt + Xt-1 + ... Xt-5 où Xt := nombre de victimes d'accidents au jour t), ce qui ne fournit pas de prédictions réalistes.
 
 **IV) Visualisation sur une carte interactive**
 
