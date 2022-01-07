@@ -46,7 +46,7 @@ Cette partie nécessite, pour pouvoir visualiser la carte dans le Notebook, de:
  1) soit utiliser la cellule au-dessus pour permettre le "unverified context"
  2) soit réaliser l'opération suivante : "" Make this Notebook Trusted to load map: File -> Trust Notebook" (Message rencontré sur JupyterLab).
 
-La carte a également été sauvegardée en html.
+**La carte a également été sauvegardée en html.**
 
 **V) Entraînement d'un réseau de neurones pour prédire la mortalité (variable "grav")**
 
