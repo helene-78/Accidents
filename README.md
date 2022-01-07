@@ -23,3 +23,6 @@ Exploitation des données de l'année 2019 (plus de 130 000 entrées)
  [***df_utiles***](https://github.com/helene-78/Accidents/blob/main/df_utiles.csv) contient la fusion des bases de données utilisées dans ce projet (*caracteristiques-2019.csv*, *usagers-2019.csv*, *lieux-2019.csv*, *vehicules-2019.csv*) disponibles dans le dossier [**Bases de données**](https://github.com/helene-78/Accidents/tree/main/Bases%20de%20donn%C3%A9es)
 
 
+Le code doit être compilé entièrement pour avoir accès au Dash. La partie qui charge le plus est la construction du modèle Sarimax, qui pourra être sautée pour voir  l'interface Dash.
+
+De plus la partie Carte Interactive nécessite, pour pouvoir visualiser la carte dans le Notebook, de 1) soit utiliser la cellule au-dessus pour permettre le "unverified context" 2) soit réaliser l'opération suivante : "" Make this Notebook Trusted to load map: File -> Trust Notebook" (Message rencontré sur JupyterLab). La carte a également été sauvegardée en html.
