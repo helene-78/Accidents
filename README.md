@@ -55,4 +55,4 @@ Nous nous intéressons cette fois à la mortalité des accidents grâce à un mo
 **VI) Interface Dash**
 
 L'interface reprend la carte interactive, la prédiction par séries temporelles en affichant la prédiction sur janvier 2020, et enfin permet de prédire la mortalité d'un accident, en choisissant soi-même les modalités, à partir du modèle de Réseau de neurones que nous avons entraîné.
-**Le code doit être compilé entièrement pour avoir accès au Dash. La partie qui charge le plus est la construction du modèle Sarimax, qui pourra être sautée pour voir l'interface plus rapidement**.
+**Le code doit être compilé entièrement pour avoir accès au Dash. Les parties qui chargent le plus longtemps sont la construction du modèle Sarimax  (III) et l'affichage des cartes (IV), qui pourront être sautés pour voir l'interface plus rapidement**.
